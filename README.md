@@ -1,5 +1,4 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Sakauchi444&theme=react)
-
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauchi444&layout=compact&theme=react)
 
 Publicにできるものが少なすぎる...
