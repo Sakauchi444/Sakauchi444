@@ -1,6 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Sakauchi444&theme=react)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauchi444&theme=react&langs_count=3)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauchi444&layout=compact&theme=react)
+
+![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauchi444&layout=compact&theme=react)
+
 Publicにできるものが少なすぎる...
 
 <!--
