@@ -1,7 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Sakauchi444&theme=react)
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauchi444&layout=compact&theme=react)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakauchi444)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakauchi444)
 
 <!--
 **Sakauchi444/Sakauchi444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
